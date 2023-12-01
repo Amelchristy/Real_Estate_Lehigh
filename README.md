@@ -1,9 +1,9 @@
 # Real_Estate_Lehigh
 
-Introduction
+Introduction:
 With the ever-evolving real estate landscape in the U.S, we believe that there is a pressing need and a significant opportunity to leverage data driven insights to identify potential hotspots for real estate investment
 
-Business Problem	
+Business Problem:	
 Predict the next hot region in the United States to help realtors, developers, or private companies to  maximize their investment
 
 
